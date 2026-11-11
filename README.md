@@ -39,4 +39,11 @@ My Goal
 
 Build strong foundations in Linux, Git, Python, Cloud Computing, and DevOps.
 
-Day 6 Status: In Progress 🚀
+Day 6 Status: In Progress 🚀.              
+### Day 6: Linux and Git Basics
+
+- Learned pwd command.
+- Learned ls command.
+- Learned mkdir command.
+- Learned cd command.
+- Understood Git vs GitHub.
