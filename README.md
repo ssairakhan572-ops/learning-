@@ -46,4 +46,12 @@ Day 6 Status: In Progress 🚀.
 - Learned ls command.
 - Learned mkdir command.
 - Learned cd command.
-- Understood Git vs GitHub.
+- Understood Git vs GitHub.           
+## Day 7: Python Quiz and Debugging
+
+Today's Tasks
+- [x] Passed Module 1 Quiz on SoloLearn
+- [x] Completed Debugging lesson
+- [ ] Practice Git commands in Termux
+
+Day 7 Status: Completed 🚀
